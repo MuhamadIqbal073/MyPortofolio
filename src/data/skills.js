@@ -113,12 +113,6 @@ const skills = [
     type: "image",
   },
   {
-    name: "Illustrator",
-    image:
-      "https://img.icons8.com/color/96/adobe-illustrator--v1.png",
-    type: "image",
-  },
-  {
     name: "Laravel",
     icon: SiLaravel,
     color: "text-orange-400",
@@ -133,12 +127,6 @@ const skills = [
   {
     name: "Html",
     icon: SiHtml5,
-    color: "text-orange-400",
-    type: "icon",
-  },
-  {
-    name: "Cisco Packet Tracer",
-    icon: SiCisco,
     color: "text-orange-400",
     type: "icon",
   },
