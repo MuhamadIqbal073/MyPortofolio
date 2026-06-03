@@ -1,7 +1,7 @@
 const projects = [
   {
     title: "FishSnap",
-    desc: "Klasifikasi 10 jenis ikan menggunakan Faster R-CNN dan Computer Vision.",
+    desc: "FishSnap merupakan aplikasi mobile untuk deteksi dan klasifikasi jenis ikan yang dikembangkan menggunakan algoritma deep learning MobileNetV2. Aplikasi ini dirancang untuk mengidentifikasi berbagai jenis ikan melalui input gambar secara cepat dan akurat. FishSnap diimplementasikan dalam bentuk aplikasi mobile dengan antarmuka yang user-friendly serta kemampuan prediksi secara real-time, sehingga dapat digunakan untuk kebutuhan pembelajaran, penelitian, maupun identifikasi ikan secara praktis. Pengembangan proyek ini mencakup proses pelatihan model, pengolahan dataset citra ikan, serta integrasi model machine learning ke dalam platform mobile.",
     image: "Project/FishSnap.png",
     tech: ["Python", "TensorFlow", "OpenCV"],
     github: "https://github.com/Fish-Snap",
