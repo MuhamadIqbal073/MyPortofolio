@@ -28,7 +28,7 @@ const projects = [
 
   {
     title: "SI Iventaris Kantor Sederhana",
-    desc: "Implementasi deep learning untuk klasifikasi gambar otomatis.",
+    desc: "Implementasi Sistem Informasi Iventaris Kantor Sederhana ini merupakan hasil perwujudan dari beberapa tahapan rangkaian perancangan yang telah dilakukan sebelumnya. Implementasi perangkat lunak ini bertujuan untuk membantu dalam mengelola iventaris kantor. Dibawah ini merupakan hasil dari Sistem Informasi Iventaris Kantor Sederhana",
     image: "Project/iventaris.png",
     tech: ["PHP", "Laravel", "Bootstrap", "MySQL"],
     github: "https://github.com/MuhamadIqbal073/Si_Iventaris-kantor",
