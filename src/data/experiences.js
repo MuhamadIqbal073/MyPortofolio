@@ -34,7 +34,7 @@ import img26 from "/public/Mostaneer/2.jpeg";
 
 const experiences = [
   {
-    title: "Kantor Wilayahh Kementerian Hukum Bengkulu",
+    title: "Kantor Wilayah Kementerian Hukum Bengkulu",
     role: "Pranata Komputer",
     year: "2025-2026",
     desc: "Melaksanakan dukungan teknis di Bagian Umum yang berkaitan dengan teknologi dan informasi. Memberikan pelayanan dan bantuan teknis kepada ASN terkait kebutuhan teknologi. Melakukan troubleshooting dasar terhadap permasalahan perangkat dan sistem.Mengelola Konten Sosial Media dan Website Kantor Kementerian Hukum Bengkulu",
